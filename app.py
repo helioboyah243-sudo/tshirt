@@ -66,7 +66,7 @@ products = [
 col1, col2, col3 = st.columns(3)
 cols = [col1, col2, col3]
 
-WHATSAPP_NUMBER = "212612345678" # بدلي هادا برقمك الحقيقي بدون صفر
+WHATSAPP_NUMBER = "212677777777" # بدلي هادا برقمك الحقيقي بدون صفر
 
 for idx, prod in enumerate(products):
     with cols[idx]:
